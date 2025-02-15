@@ -132,4 +132,4 @@ By sending a request to the endpoint that uses getDevice with the following payl
 
 This article was written in collaboration with NGA Thank you
 
-PS. We actually found this a long time ago but did not report it LOL
+PS. We actually found this a long time ago but did not report it
